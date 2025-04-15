@@ -13,4 +13,4 @@ The point of this project is to make a website to host for a small family owned 
 - Python venv
 - SQLlite
 
-[Changelog]
+[Changelog](https://github.com/BruceYoung19/LowPowerFastFoodMenu/blob/main/changelog.md)
